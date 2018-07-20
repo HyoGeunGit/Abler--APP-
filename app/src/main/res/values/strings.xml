@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sunrinthon</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="press_back_button_one_more">한 번 더 눌러주세요</string>
+</resources>
